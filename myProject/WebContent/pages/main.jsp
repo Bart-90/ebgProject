@@ -13,7 +13,7 @@
 	String btnImg = "/myProject/images/cirOn.png";
 		//"/myProject/images/cirOut.png"};
 		
-	String msg = "메인페이지입니다>_<";
+	String msg = "한번 바꿔보았다.";
 %>
 
 <script type="text/javascript">
